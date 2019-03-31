@@ -5,4 +5,8 @@ Git tracks changes
 My stupid boss.
 test Push
 change_on_dev
+<<<<<<< HEAD
 add on master
+=======
+add on feature1
+>>>>>>> feature1
