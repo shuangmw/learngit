@@ -10,3 +10,4 @@ add on master
 =======
 add on feature1
 >>>>>>> feature1
+add on feature2
